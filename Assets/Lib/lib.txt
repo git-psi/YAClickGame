@@ -1,0 +1,4 @@
+You have to install manually all library from the unity asset store in this folder because I can't redistribute them.
+Here the list (there are only free assets):
+-> Pixel Fout - Tripfive (https://assetstore.unity.com/packages/2d/fonts/pixel-font-tripfive-64734)
+-> Universal Stilized UI (https://assetstore.unity.com/packages/2d/gui/universal-stylized-ui-270506)
