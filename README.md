@@ -50,6 +50,5 @@ Two libraries must be manually placed inside the Assets/Lib folder:
 
 ## Game Screenshots
 
-![Unity Game Preview](Screenshots/1.jpg)
-![Unity Game Preview](Screenshots/2.jpg)
+<img src="Screenshots/1.jpg" height="600" > <img src="Screenshots/2.jpg" height="600" >
 
